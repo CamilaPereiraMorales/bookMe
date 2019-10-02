@@ -1,7 +1,8 @@
 
 body{
 background-image: url("../img/book-1667826_1920.jpg");
-background-size:cover;
+background-size:120%;
+background-repeat: no-repeat;
 text-align: center;
 }
 
@@ -16,7 +17,7 @@ text-align: center;
     margin-top: 4em;
 }
 .login-form form {
- 
+    margin-top: 170px;
     background: #e2dfe6ed;
     box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
     padding: 10px;
